@@ -1,0 +1,5 @@
+//  http://www.boost.org/LICENSE_1_0.txt)
+
+//  Verify that definition of the "LOCK_FREE" macros and the
+//  "is_lock_free" members is consistent and matches expectations.
+//  Also, if any operation is lock-free, then the platform
